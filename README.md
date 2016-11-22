@@ -16,3 +16,11 @@ A [stackoverflow](http://stackoverflow.com/) clone built in one day using Agile 
   * PR author does not merge their own PR
   * Collaborate to fix and solve merge conflicts
   * Branch for each feature
+
+### Tech Stack
+* Ruby
+* Sinatra
+* SQLite3
+* HTML5
+* CSS3
+* Bootstrap
