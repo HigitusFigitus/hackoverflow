@@ -2,7 +2,7 @@
 
 A [stackoverflow](http://stackoverflow.com/) clone built in one day using Agile methodologies.
 
-### Authored by
+### Contributors
 
 * Jessica Forchione ([@jsforchione](https://github.com/jsforchione))
 * Rusty Hutto ([@rustyhutto](https://github.com/rustyhutto))
